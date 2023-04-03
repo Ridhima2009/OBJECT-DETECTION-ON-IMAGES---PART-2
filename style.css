@@ -1,0 +1,29 @@
+.heading{
+    color: rgb(0, 102, 255);
+    font-size: 30px;
+   
+    box-shadow: 5px 5px 5px rgb(248, 106, 106);
+    width: 99%;
+}
+.heading:hover{
+    width: 100%;
+    font-size: 32px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 30px;
+    font-family: 'Neonderthaw';
+    background: rgb(168, 230, 204);
+    border-radius: 10px;
+    width: 500px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
